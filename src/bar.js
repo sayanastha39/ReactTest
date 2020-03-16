@@ -11,7 +11,7 @@ class Bars extends Component {
                         <Bar
                             data={this.props.data}
                             width={1000}
-                            height={500}
+                            height={180}
                             options={{
                                 maintainAspectRatio: false
                             }}
