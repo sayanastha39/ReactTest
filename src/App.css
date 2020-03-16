@@ -28,25 +28,23 @@ table, th{
   right: 0;
   background-image: url("marble.jpeg");
 }
+.rightLine{
+  right:0;
+  top: 0%;
+    bottom: 48%;
+ 
+}
 
 .bar{
-    
-    top: 35%;
-    right: 0;
-    bottom: 70%;
+    right:0;
+    top: 49%;
+    bottom: 75%;
 }
 
 .rightHorizontalBar{
-  
-    top: 70%;
-    right: 0;
+  right:0;
+  top: 76%;
     bottom: 100%;
-}
-.rightLine{
- 
-    top: 0%;
-    right: 0;
-    bottom: 35%;
 }
 
 .App-header {
